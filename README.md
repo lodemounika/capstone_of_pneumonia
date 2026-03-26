@@ -85,7 +85,7 @@ Includes:
 ### 🔹 X-ray Detection
 
 ![<img width="1777" height="775" alt="chest_xray png" src="https://github.com/user-attachments/assets/1302f8d7-5345-49af-9105-7efc13796251" />
-](screenshots/xray.png)
+](screenshots/chest_xray.png)
 
 ---
 
