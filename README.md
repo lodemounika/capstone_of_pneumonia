@@ -76,13 +76,16 @@ Includes:
 
 ### 🔹 Diabetes Prediction
 
-![Diabetes Screenshot](screenshots/diabetes.png)
+
+[<img width="1800" height="1053" alt="diabetes png" src="https://github.com/user-attachments/assets/088688e8-a076-4a4e-afc1-eae75a65dcef" />
+](screenshots/diabetes.png)
 
 ---
 
 ### 🔹 X-ray Detection
 
-![X-ray Screenshot](screenshots/xray.png)
+![<img width="1777" height="775" alt="chest_xray png" src="https://github.com/user-attachments/assets/1302f8d7-5345-49af-9105-7efc13796251" />
+](screenshots/xray.png)
 
 ---
 
